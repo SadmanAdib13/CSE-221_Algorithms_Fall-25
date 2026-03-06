@@ -40,3 +40,4 @@ def run():
         return
     print("".join(res))
  
+run()
